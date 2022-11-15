@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPGLPWha4BB87Cpmeieztq1fSzG7DE0f3twpm7/258SwAZgNWRJPmBT22lRO0WEWsk7yqklcn18wMDPgCkmcgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serdar\\Documents\\GitHub\\Kaizen_Case\\3)SaasJsonConverter\\ConvertSaasJson\\ConvertSaasJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serdar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Serdar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
